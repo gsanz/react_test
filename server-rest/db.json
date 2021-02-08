@@ -1,0 +1,32 @@
+{
+  "clients": [
+    {
+      "id": "6f4fbbb4-e1b1-4d3a-86f9-b7c16625c28e",
+      "name": "Jose",
+      "username": "Admin"
+    },
+    {
+      "id": "85da6927-add9-468b-8210-aff9f1cc026e",
+      "name": "Pedro",
+      "username": "Lopez",
+      "address": "direccion"
+    }
+  ],
+  "products": [
+    {
+      "id": "38050209-cc01-4b61-aecf-67b18aaddae5",
+      "name": "manzana",
+      "username": "fruta",
+      "address": "direccion"
+    },
+    {
+      "id": "482b0c81-d3c8-4965-b8af-2fa259d8047c",
+      "name": "hortaliza",
+      "username": "verdura",
+      "address": "direccion"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
