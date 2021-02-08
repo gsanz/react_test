@@ -9,7 +9,7 @@ Para iniciar el sistema habria que hacer lo siguiente:
 Username : cluemediator
 password: 123456
 en la pantalla de login . Por defecto de inicia en el puerto 4000.
-3- Iniciar el servidor de peticiones REST del sistema : para ello se inicia el proyecto json-server , con npm start y por defecto se inicia el proyecto en el puerto 3005.En el fichero db.json aparece el esquema de bases de datos del sistema.
+3- Iniciar el servidor de peticiones REST del sistema : En este proyecto , ell fichero db.json se corresponde con la base de dato servicios REST json del ejemplo https://github.com/typicode/json-server. Se tendría que descargar el proyecto y  base de datos db.json se tendría que sobreescribir. Por otro lado es importante ejecutar el proyecto en el puerto 3005, ya que los servisios REST tiran a ese puertopara ello se inicia el proyecto json-server , con npm start y por defecto se inicia el proyecto en el puerto 3005.En el fichero db.json aparece el esquema de bases de datos del sistema.
 
 
 Una vez se inicia el sistema vamos a la pantalla de login : http://localhost:3000 y sale la pantalla de autenticación . A partir de ahí ingresamos usuario y contraseña :
