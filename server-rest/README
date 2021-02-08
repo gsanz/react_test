@@ -1,0 +1,2 @@
+El fichero db.json se corresponde con la base de dato servicios REST json del ejemplo https://github.com/typicode/json-server.
+La base de datos db.json es el modelo utilidado en ese proyecto . Se tendría que sobreescribir. Por otro lado es importante ejecutar el proyecto en el puerto 3005, ya que los servisios REST tiran a ese puerto
